@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sasta-Tesla/static/css/main.59fab17a.css",
+    "main.js": "/sasta-Tesla/static/js/main.69058bab.js",
+    "index.html": "/sasta-Tesla/index.html",
+    "main.59fab17a.css.map": "/sasta-Tesla/static/css/main.59fab17a.css.map",
+    "main.69058bab.js.map": "/sasta-Tesla/static/js/main.69058bab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59fab17a.css",
+    "static/js/main.69058bab.js"
+  ]
+}
